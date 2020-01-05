@@ -1,7 +1,9 @@
 # Scale your Python Code with PySpark in Apache Spark
 ## PyData Charlotte - January 2020 Meeting
+<img src="https://pydatacharlotte.com/Ravishankar_Sivasubramaniam_0.png" width="100px" align="right">
 
 <h3 align="right">Colby T. Ford, Ph.D.</h3>
+
 
 ----------------------------------------
 
