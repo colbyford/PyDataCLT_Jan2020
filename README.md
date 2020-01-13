@@ -24,3 +24,7 @@ If you don't have access to a Spark cluster, sign up for Databricks Community Ed
 - PySpark API Documentation: [https://spark.apache.org/docs/latest/api/python/index.html](https://spark.apache.org/docs/latest/api/python/index.html)
 - Databricks Academy: [https://academy.databricks.com/](https://academy.databricks.com/)
 - Sparkitecture: [https://www.sparkitecture.io/](https://www.sparkitecture.io/)
+
+
+----------------------------------------
+<p align="right">Presented: 1/9/20</p>
